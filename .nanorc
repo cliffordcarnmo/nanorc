@@ -1,0 +1,13 @@
+set autoindent
+set tabsize 4
+set linenumbers
+set constantshow
+set indicator
+set locking
+set titlecolor bold,lightwhite,blue
+set statuscolor bold,lightwhite,black
+set errorcolor bold,lightwhite,red
+set selectedcolor lightwhite,lightmagenta
+set numbercolor white
+set keycolor white
+set functioncolor green
