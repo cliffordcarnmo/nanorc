@@ -4,10 +4,10 @@ set linenumbers
 set constantshow
 set indicator
 set locking
-set titlecolor bold,lightwhite,blue
-set statuscolor bold,lightwhite,black
+set titlecolor white,black
+set statuscolor lightblue,black
 set errorcolor bold,lightwhite,red
 set selectedcolor lightwhite,lightmagenta
-set numbercolor white
+set numbercolor lightblack
 set keycolor white
-set functioncolor green
+set functioncolor lightblue
