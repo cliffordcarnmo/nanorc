@@ -2,7 +2,6 @@ set autoindent
 set tabsize 4
 set linenumbers
 set constantshow
-set indicator
 set locking
 set titlecolor white,black
 set statuscolor lightblue,black
@@ -11,3 +10,8 @@ set selectedcolor lightwhite,lightmagenta
 set numbercolor lightblack
 set keycolor white
 set functioncolor lightblue
+set nohelp
+set multibuffer
+bind ^c copy main
+bind ^v paste main
+bind ^z undo main
