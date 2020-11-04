@@ -3,10 +3,10 @@ set tabsize 4
 set linenumbers
 set constantshow
 set locking
-set titlecolor white,black
-set statuscolor lightblue,black
+set titlecolor lightblue,black
+set statuscolor lightblue
 set errorcolor bold,lightwhite,red
-set selectedcolor lightwhite,lightmagenta
+set selectedcolor lightwhite,magenta
 set numbercolor lightblack
 set keycolor white
 set functioncolor lightblue
